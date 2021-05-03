@@ -11,8 +11,8 @@
 ⬆️ Pushed 1 commit to William5553/triv
 ⬆️ Pushed 1 commit to William5553/triv
 ⬆️ Pushed 1 commit to William5553/triv
-⬆️ Pushed 1 commit to William5553/wolframalpha
+⬆️ Pushed 1 commit to William5553/triv
 ```
 
 ------------
-<p align="center">Last refresh: Monday, May 3rd 2021, 4:21:55 pm UTC</p>
+<p align="center">Last refresh: Monday, May 3rd 2021, 5:38:26 pm UTC</p>
