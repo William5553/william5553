@@ -4,15 +4,15 @@
 
 ### 🗣 My activity:
 ```
+⬆️ Pushed 1 commit to William5553/triv
+⬆️ Pushed 2 commits to William5553/triv
 🎉 Merged PR #213 in William5553/triv
 ⬆️ Pushed 2 commits to William5553/triv
 ⬆️ Pushed 1 commit to William5553/triv
 ⬆️ Pushed 1 commit to William5553/triv
 ⬆️ Pushed 1 commit to William5553/wolframalpha
 ⬆️ Pushed 1 commit to William5553/mathsteps
-⬆️ Pushed 1 commit to William5553/translate-google-api
-⬆️ Pushed 1 commit to William5553/triv
 ```
 
 ------------
-<p align="center">Last refresh: Wednesday, June 2nd 2021, 3:51:31 pm UTC</p>
+<p align="center">Last refresh: Wednesday, June 2nd 2021, 5:51:26 pm UTC</p>
