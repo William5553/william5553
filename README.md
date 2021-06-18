@@ -15,4 +15,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: Thursday, June 17th 2021, 11:10:35 pm UTC</p>
+<p align="center">Last refresh: Friday, June 18th 2021, 12:32:53 am UTC</p>
