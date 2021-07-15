@@ -4,7 +4,7 @@
 
 ### 🗣 My activity:
 ```
-⬆️ Pushed 1 commit to William5553/triv
+❌ Closed PR #231 in William5553/triv
 ⬆️ Pushed 1 commit to William5553/triv
 ⬆️ Pushed 1 commit to William5553/triv
 ⬆️ Pushed 1 commit to William5553/triv
@@ -15,4 +15,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: Thursday, July 15th 2021, 7:08:17 pm UTC</p>
+<p align="center">Last refresh: Thursday, July 15th 2021, 8:10:14 pm UTC</p>
