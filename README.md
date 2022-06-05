@@ -4,6 +4,7 @@
 
 ### 🗣 My activity:
 ```
+❌ Closed PR #2 in William5553/william5553
 ❌ Closed PR #393 in William5553/triv
 ❌ Closed PR #392 in William5553/triv
 ❌ Closed PR #389 in William5553/triv
@@ -11,8 +12,7 @@
 ⬆️ Pushed 1 commit to William5553/mathsteps
 ⬆️ Pushed 1 commit to William5553/translate-google-api
 ⬆️ Pushed 1 commit to William5553/mathsteps
-⬆️ Pushed 1 commit to William5553/mathsteps
 ```
 
 ------------
-<p align="center">Last refresh: Sunday, June 5th 2022, 3:11:28 am UTC</p>
+<p align="center">Last refresh: Sunday, June 5th 2022, 4:22:30 am UTC</p>
