@@ -1,18 +1,18 @@
 ### 📈 Stats:
-![William5553's GitHub stats](https://github-readme-stats.vercel.app/api?username=william5553&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=william5553&langs_count=10&layout=compact)
+![William5553's GitHub stats](https://github-readme-stats.vercel.app/api?username=william5553&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=william5553&langs_count=10&layout=compact&theme=dark&include_all_commits=true&count_private=true)
 
 ### 🗣 My activity:
 ```
-⬆️ Pushed 1 commit to William5553/classes
-⬆️ Pushed 1 commit to William5553/triv
-⬆️ Pushed 1 commit to William5553/classes
-❌ Closed PR #1 in breaches-net/website
-⬆️ Pushed 1 commit to William5553/triv
-⬆️ Pushed 1 commit to William5553/bananarama
-⬆️ Pushed 1 commit to William5553/bananarama
-⬆️ Pushed 1 commit to William5553/bananarama
+⬆️ Pushed 1 commit to William5553/william5553
+⬆️ Pushed 1 commit to LucasJoel1/template
+⬆️ Pushed 1 commit to LucasJoel1/template
+⬆️ Pushed 1 commit to LucasJoel1/template
+⬆️ Pushed 1 commit to LucasJoel1/template
+⬆️ Pushed 2 commits to LucasJoel1/template
+⬆️ Pushed 1 commit to LucasJoel1/template
+⬆️ Pushed 5 commits to LucasJoel1/template
 ```
 
 ------------
-<p align="center">Last refresh: Tuesday, November 1st 2022, 11:24:31 pm UTC</p>
+<p align="center">Last refresh: Wednesday, November 2nd 2022, 1:46:26 am UTC</p>
