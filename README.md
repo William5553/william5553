@@ -4,6 +4,7 @@
 
 ### 🗣 My activity:
 ```
+⬆️ Pushed 1 commit to William5553/classes
 ⬆️ Pushed 1 commit to William5553/spicetify-themes
 💪 Opened PR #883 in spicetify/spicetify-themes
 ⬆️ Pushed 1 commit to William5553/spicetify-themes
@@ -11,8 +12,7 @@
 ⬆️ Pushed 1 commit to William5553/translate-google-api
 ⬆️ Pushed 1 commit to William5553/quinton
 ⬆️ Pushed 1 commit to William5553/translate-google-api
-⬆️ Pushed 1 commit to William5553/translate-google-api
 ```
 
 ------------
-<p align="center">Last refresh: Wednesday, January 18th 2023, 11:16:48 pm UTC</p>
+<p align="center">Last refresh: Thursday, January 19th 2023, 1:26:49 am UTC</p>
