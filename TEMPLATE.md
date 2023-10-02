@@ -8,4 +8,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></p>
+<p align="center">Last refresh: <!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [ET]", "tz": "America/Toronto"}--></p>
