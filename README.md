@@ -4,6 +4,7 @@
 
 ### 🗣 My activity:
 ```
+❌ Closed PR #26 in HighlanderRobotics/Scouting-Server
 💪 Opened PR #26 in HighlanderRobotics/Scouting-Server
 ⬆️ Pushed 1 commit to William5553/Scouting-Server
 🍴 Forked William5553/Scouting-Server from HighlanderRobotics/Scouting-Server
@@ -11,8 +12,7 @@
 ⬆️ Pushed 1 commit to William5553/ffmpeg-utils
 ⬆️ Pushed 1 commit to William5553/ffmpeg-utils
 ⬆️ Pushed 1 commit to William5553/ffmpeg-utils
-⬆️ Pushed 1 commit to William5553/ffmpeg-utils
 ```
 
 ------------
-<p align="center">Last refresh: Wednesday, October 25th 2023, 9:04:25 pm ET</p>
+<p align="center">Last refresh: Wednesday, October 25th 2023, 10:19:42 pm ET</p>
