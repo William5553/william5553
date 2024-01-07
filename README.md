@@ -6,10 +6,7 @@
 ```
 🍴 Forked William5553/starter-discord-bot from cyclic-software/starter-discord-bot
 ❌ Closed PR #26 in HighlanderRobotics/Scouting-Server
-💪 Opened PR #26 in HighlanderRobotics/Scouting-Server
-⬆️ Pushed 1 commit to William5553/Scouting-Server
-🍴 Forked William5553/Scouting-Server from HighlanderRobotics/Scouting-Server
 ```
 
 ------------
-<p align="center">Last refresh: Saturday, January 6th 2024, 10:16:07 pm ET</p>
+<p align="center">Last refresh: Saturday, January 6th 2024, 11:18:29 pm ET</p>
