@@ -5,8 +5,7 @@
 ### 🗣 My activity:
 ```
 🍴 Forked William5553/starter-discord-bot from cyclic-software/starter-discord-bot
-❌ Closed PR #26 in HighlanderRobotics/Scouting-Server
 ```
 
 ------------
-<p align="center">Last refresh: Friday, January 26th 2024, 12:13:43 am ET</p>
+<p align="center">Last refresh: Friday, January 26th 2024, 1:19:31 am ET</p>
