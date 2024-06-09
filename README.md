@@ -4,6 +4,7 @@
 
 ### 🗣 My activity:
 ```
+❌ Closed PR #1 in frc1678/schema-2024-public
 💪 Opened PR #1 in frc1678/schema-2024-public
 ⬆️ Pushed 1 commit to William5553/schema-2024-public
 🍴 Forked William5553/schema-2024-public from frc1678/schema-2024-public
@@ -11,8 +12,7 @@
 ⬆️ Pushed 1 commit to William5553/DoorbellBomb
 ⬆️ Pushed 1 commit to William5553/DoorbellBomb
 ⬆️ Pushed 1 commit to William5553/DoorbellBomb
-⬆️ Pushed 1 commit to William5553/DoorbellBomb
 ```
 
 ------------
-<p align="center">Last refresh: Saturday, June 8th 2024, 7:17:05 pm ET</p>
+<p align="center">Last refresh: Saturday, June 8th 2024, 9:19:02 pm ET</p>
